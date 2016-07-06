@@ -1,0 +1,28 @@
+\documentclass[twoside,twocolumn]{jsarticle}
+%↑プリアンブル
+\title{Rをつかうときに見るもの}
+\author{ishiken}
+%↓本文がスタート
+\begin{document}
+\maketitle
+Rというソフトウェアを使うに当たって、忘れてしまいそうなことをアホな自分向けに作った文書です。だいたいは、『みんなのR　データ分析と統計解析の新しい教科書』を再構成したものです。
+
+ほな、はじめましょ。
+\part{Rの準備(1～2章)}
+Rのインストールやそれに付随するGitなどの覚えておくとちょっと得するサービス・ソフトのインストールや利用方法を書いていきます。（見直すときに不必要なので編集後回し）
+\section{RとR Studio}
+工事中
+\section{Git}
+バージョン管理のソフトです。いろんな人と作業するときに多分役立ちます。以後工事中
+\part{Packagesの導入(install)}
+権威が作ってくれた統計手法をまるっと使わせてもらう方法。それがパッケージ。
+\section {Packagesウインドウ}
+R Studio右下のPackagesタブ内の左上にあるInstall Packagesボタンをクリックして、ほしいPackagesの名前を検索しましょう。スペースを挟めば同時に複数のインストールが可能。これからインストールするPackageに他のPackageを要する時も自動で行ってくれます。
+\section {コマンド}
+\noindent install.packages(``NAME'')
+\section{GitHubを用いる}
+\noindent require(devtools)
+
+\noindent install\_github(repo = ``NAME'', username = ``YOUR NAME'')
+\part{Rの基本(4章)}
+\end{document}
