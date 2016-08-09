@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.4.24)  29 JUL 2016 04:10
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.4.24)  9 AUG 2016 22:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -41,62 +41,70 @@ LaTeX Info: Redefining \TeX on input line 1731.
 LaTeX Info: Redefining \LaTeX on input line 1757.
 LaTeX Info: Redefining \LaTeXe on input line 1782.
 \heisei=\count89
-) (./sum_r.aux)
+) (c:/w32tex/share/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `sum_r.idx'.
+
+
+Writing index file sum_r.idx
+(./sum_r.aux)
 \openout1 = `sum_r.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 7.
+(Font)              scaled to size 16.60605pt on input line 10.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 7.
+(Font)              scaled to size 16.60605pt on input line 10.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 7.
+(Font)              scaled to size 11.53198pt on input line 10.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 7.
+(Font)              scaled to size 11.53198pt on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 7.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
+(Font)              <6> on input line 10.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 7.
+(Font)              scaled to size 5.76599pt on input line 10.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
+(Font)              scaled to size 13.83836pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
+(Font)              scaled to size 13.83836pt on input line 14.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
+(Font)              scaled to size 13.83836pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
+(Font)              scaled to size 13.83836pt on input line 14.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 11.
+(Font)              scaled to size 19.9311pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 11.
+(Font)              scaled to size 19.9311pt on input line 14.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 13.
+(Font)              scaled to size 11.53198pt on input line 16.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 13.
+(Font)              scaled to size 11.53198pt on input line 16.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 26--27
+Underfull \hbox (badness 1769) in paragraph at lines 30--31
 \OT1/cmr/m/n/10 install[]github(repo = ``NAME'', user-name =
  []
 
@@ -107,33 +115,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 1831) in paragraph at lines 35--36
+Underfull \hbox (badness 1831) in paragraph at lines 40--41
 \JY1/mc/m/n/10 例 \OT1/cmr/m/n/10 1 \JY1/mc/m/n/10 ： \OT1/cmr/m/n/10 seq.dates
 (from = "01/01/2015", to =
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 39--40
+Underfull \hbox (badness 2512) in paragraph at lines 44--45
 []\OT1/cmr/m/n/10 [1] 01/01/15 02/01/15 03/01/15 04/01/15
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 46--47
+Underfull \hbox (badness 2512) in paragraph at lines 51--52
 []\OT1/cmr/m/n/10 [1] 01/01/15 02/01/15 03/01/15 04/01/15
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2]
-(./sum_r.aux) ) 
+
+(./sum_r.ind [2] [3
+
+
+
+]) (./sum_r.aux) ) 
 Here is how much of TeX's memory you used:
- 417 strings out of 493709
- 4168 string characters out of 6152372
+ 432 strings out of 493709
+ 4421 string characters out of 6152372
  64456 words of memory out of 5000000
- 4038 multiletter control sequences out of 15000+600000
+ 4044 multiletter control sequences out of 15000+600000
  14104 words of font info for 62 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 23i,7n,19p,405b,245s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 23i,7n,19p,405b,320s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on sum_r.dvi (2 pages, 6948 bytes).
+Output written on sum_r.dvi (3 pages, 7224 bytes).

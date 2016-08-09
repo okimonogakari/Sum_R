@@ -1,7 +1,10 @@
 \documentclass[twoside,twocolumn]{jsarticle}
+\usepackage{makeidx}
+\makeindex
 %↑プリアンブル
 \title{Rをつかうときに見るもの}
 \author{ishiken}
+
 %↓本文がスタート
 \begin{document}
 \maketitle
@@ -21,11 +24,13 @@ R Studio右下のPackagesタブ内の左上にあるInstall Packagesボタンをクリックして、ほ
 \section {コマンド}
 \noindent install.packages(``NAME'')
 \section{GitHubを用いる}
+\index{GitHub}
 \noindent require(devtools)
 
 \noindent install\_github(repo = ``NAME'', username = ``YOUR NAME'')
 \part{Rの基本(4章)}
 \section{日付機能の充実}
+\index{Date}\index{POSIXct}\index{lubridate}\index{chron}
 コマンドDate及びPOSIXct(date-timeクラス)だけでなく、lubridate(オススメ！)やchronが紹介されている。他にはdifftimeコマンドも派生として存在。
 
 lubiridateは(class()…``Date'')日付を連続文字で認識してくれるだけでなく、認識させる日・月・年の順番を指定することが出来る。例：ymd(``20160729'')。それだけでなく、日付と思わしき文字列や数字を入力すると、自動的に分解(parse)して認識してくれる（精度は運次第。一度何かに入れ込んでから、parseさせるのもええらしいわ。それでもだめならlocaleを操作しよう）例：dmy( ``5, 9, first class due on 2011'')。
@@ -69,6 +74,5 @@ POSIXctで用いられる。日付だけでなく、時間まで保持。
 
 chronパッケージで用いられるクラス。datesは日付を表すクラス。ある点を起点とした相対日数を持つ。timesは時間を表す。timesは1日を1とした数値。これ、どこでつかうクラスなんだろうね。教えて。。。。
 
-
-
+\printindex 
 \end{document}
